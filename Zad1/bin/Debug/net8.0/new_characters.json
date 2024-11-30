@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Butcher",
+    "CharacterClass": 1,
+    "Gender": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Statistics": {}
+  },
+  {
+    "Name": "Mazekeen",
+    "CharacterClass": 2,
+    "Gender": 1,
+    "Level": 1,
+    "Experience": 0,
+    "Statistics": {}
+  },
+  {
+    "Name": "Gandalf",
+    "CharacterClass": 3,
+    "Gender": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Statistics": {}
+  },
+  {
+    "Name": "ShadowWalker",
+    "CharacterClass": 2,
+    "Gender": 0,
+    "Level": 16,
+    "Experience": 260,
+    "Statistics": {}
+  },
+  {
+    "Name": "FireQueen",
+    "CharacterClass": 3,
+    "Gender": 1,
+    "Level": 28,
+    "Experience": 370,
+    "Statistics": {}
+  }
+]
